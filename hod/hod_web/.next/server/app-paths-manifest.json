@@ -1,0 +1,12 @@
+{
+  "/page": "app/page.js",
+  "/department/page": "app/department/page.js",
+  "/faculty/page": "app/faculty/page.js",
+  "/approvals/page": "app/approvals/page.js",
+  "/attendance/page": "app/attendance/page.js",
+  "/grievances/page": "app/grievances/page.js",
+  "/meetings/page": "app/meetings/page.js",
+  "/ai-insights/page": "app/ai-insights/page.js",
+  "/notifications/page": "app/notifications/page.js",
+  "/profile/page": "app/profile/page.js"
+}
